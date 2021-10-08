@@ -1,2 +1,2 @@
 # WeFramework
-WeFramework Core Res
+WeFramework Core Repository
